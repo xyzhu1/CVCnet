@@ -40,6 +40,7 @@ def test(test_loader, cfg):
 
             time_start = time.time()
             SR_left = net(LR_left,LR_right)
+            torch.cuda.synchronize()
             time_end = time.time()
 
             SR_left = torch.clamp(SR_left, 0, 1)
