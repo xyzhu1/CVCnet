@@ -1,5 +1,6 @@
 # CVCnet
-This repository is the official Pytorch code for our proposed CVCnet.
+*Xiangyuan Zhu; Kehua Guo; Sheng Ren; Bin Hu; Min Hu; Hui Fang. "Cross View Capture for Stereo Image
+Super-Resolution"*,  in IEEE Transactions on Multimedia [IEEExplore](https://ieeexplore.ieee.org/document/9465749)
 
 ## Requirements
 - Python 3.6 (Anaconda is recommended)
