@@ -43,4 +43,6 @@ python cvcnet_test.py
 ```
 
 ## Train
-Coming soon 
+```bash
+python cvcnet_train.py 
+``` 
